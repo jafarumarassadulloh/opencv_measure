@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232696274352",
+    "project_id": "opencvproject-a5892",
+    "storage_bucket": "opencvproject-a5892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232696274352:android:3fec4c83bda6818b880a75",
+        "android_client_info": {
+          "package_name": "com.example.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232696274352-pege36hl7mfob45230eqrgrbcrks85pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camera",
+            "certificate_hash": "3b361e023af387e9033ac864cf850441085a0514"
+          }
+        },
+        {
+          "client_id": "232696274352-fep8tc8b3jovij30pqcss9vidhmbj3lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU3RC0lnuR2Xku3movF4i874Be4at_Ato"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232696274352-fep8tc8b3jovij30pqcss9vidhmbj3lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

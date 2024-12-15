@@ -19,3 +19,12 @@ Repositori ini berisi dua komponen utama:
 - **Aplikasi Flutter**:
   - Antarmuka kamera untuk mengambil gambar.
   - Integrasi dengan program OpenCV untuk pengukuran objek (belum dilakukan).
+
+## Dokumentasi
+**Kalibrasi Program Pengukuran Dimensi**
+![Pengukuran menggunakan video dan obyek non geometri](https://github.com/jafarumarassadulloh/opencv_measure/blob/main/WhatsApp%20Image%202024-12-15%20at%2010.27.14%20%281%29.jpeg)
+
+![Pengukuran menggunakan kamera langsung dan obyek geometri](https://github.com/jafarumarassadulloh/opencv_measure/blob/main/WhatsApp%20Image%202024-12-15%20at%2010.27.14.jpeg)
+
+**Aplikasi Flutter**
+![enter image description here](https://github.com/jafarumarassadulloh/opencv_measure/blob/main/WhatsApp%20Image%202024-12-15%20at%2010.27.15.jpeg)
